@@ -1,0 +1,1960 @@
+FI1 SX2991911C:br SX2991911C:bi fdc1 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc1 fdc1 fdc2 resistor r=10m
+FEdc1 fdc2   gnd vsource vdc=600
+
+FI2 SX3029502A:br SX3029502A:bi fdc3 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*17.74kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc2 fdc3 fdc4 resistor r=10m
+FEdc2 fdc4   gnd vsource vdc=600
+
+FI3 SX2785516B:br SX2785516B:bi fdc5 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc3 fdc5 fdc6 resistor r=10m
+FEdc3 fdc6   gnd vsource vdc=600
+
+FI4 SX3010565C:br SX3010565C:bi fdc7 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc4 fdc7 fdc8 resistor r=10m
+FEdc4 fdc8   gnd vsource vdc=600
+
+FI5 SX3104126C:ar SX3104126C:ai fdc9 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc5 fdc9 fdc10 resistor r=10m
+FEdc5 fdc10   gnd vsource vdc=600
+
+FI6 SX2691951C:br SX2691951C:bi fdc11 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc6 fdc11 fdc12 resistor r=10m
+FEdc6 fdc12   gnd vsource vdc=600
+
+FI7 SX2841629C:ar SX2841629C:ai fdc13 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*15.26kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc7 fdc13 fdc14 resistor r=10m
+FEdc7 fdc14   gnd vsource vdc=600
+
+FI8 SX3141388C:br SX3141388C:bi fdc15 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc8 fdc15 fdc16 resistor r=10m
+FEdc8 fdc16   gnd vsource vdc=600
+
+FI9 SX2973144C:ar SX2973144C:ai fdc17 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc9 fdc17 fdc18 resistor r=10m
+FEdc9 fdc18   gnd vsource vdc=600
+
+FI10 SX2673309C:br SX2673309C:bi fdc19 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc10 fdc19 fdc20 resistor r=10m
+FEdc10 fdc20   gnd vsource vdc=600
+
+FI11 SX2673310A:br SX2673310A:bi fdc21 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc11 fdc21 fdc22 resistor r=10m
+FEdc11 fdc22   gnd vsource vdc=600
+
+FI12 SX3104122A:ar SX3104122A:ai fdc23 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc12 fdc23 fdc24 resistor r=10m
+FEdc12 fdc24   gnd vsource vdc=600
+
+FI13 SX2973151A:br SX2973151A:bi fdc25 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc13 fdc25 fdc26 resistor r=10m
+FEdc13 fdc26   gnd vsource vdc=600
+
+FI14 SX3235253A:br SX3235253A:bi fdc27 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc14 fdc27 fdc28 resistor r=10m
+FEdc14 fdc28   gnd vsource vdc=600
+
+FI15 SX3197637C:ar SX3197637C:ai fdc29 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc15 fdc29 fdc30 resistor r=10m
+FEdc15 fdc30   gnd vsource vdc=600
+
+FI16 SX3235256A:ar SX3235256A:ai fdc31 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc16 fdc31 fdc32 resistor r=10m
+FEdc16 fdc32   gnd vsource vdc=600
+
+FI17 SX2804251A:ar SX2804251A:ai fdc33 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc17 fdc33 fdc34 resistor r=10m
+FEdc17 fdc34   gnd vsource vdc=600
+
+FI18 SX2710510C:ar SX2710510C:ai fdc35 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc18 fdc35 fdc36 resistor r=10m
+FEdc18 fdc36   gnd vsource vdc=600
+
+FI19 SX3010556A:ar SX3010556A:ai fdc37 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc19 fdc37 fdc38 resistor r=10m
+FEdc19 fdc38   gnd vsource vdc=600
+
+FI20 SX3085396A:br SX3085396A:bi fdc39 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc20 fdc39 fdc40 resistor r=10m
+FEdc20 fdc40   gnd vsource vdc=600
+
+FI21 SX3254220C:br SX3254220C:bi fdc41 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc21 fdc41 fdc42 resistor r=10m
+FEdc21 fdc42   gnd vsource vdc=600
+
+FI22 SX3254218A:ar SX3254218A:ai fdc43 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc22 fdc43 fdc44 resistor r=10m
+FEdc22 fdc44   gnd vsource vdc=600
+
+FI23 SX2748130B:br SX2748130B:bi fdc45 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc23 fdc45 fdc46 resistor r=10m
+FEdc23 fdc46   gnd vsource vdc=600
+
+FI24 SX2729411A:br SX2729411A:bi fdc47 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc24 fdc47 fdc48 resistor r=10m
+FEdc24 fdc48   gnd vsource vdc=600
+
+FI25 SX3010566C:ar SX3010566C:ai fdc49 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc25 fdc49 fdc50 resistor r=10m
+FEdc25 fdc50   gnd vsource vdc=600
+
+FI26 SX3104859B:ar SX3104859B:ai fdc51 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc26 fdc51 fdc52 resistor r=10m
+FEdc26 fdc52   gnd vsource vdc=600
+
+FI27 SX2748840B:br SX2748840B:bi fdc53 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc27 fdc53 fdc54 resistor r=10m
+FEdc27 fdc54   gnd vsource vdc=600
+
+FI28 SX2711234B:ar SX2711234B:ai fdc55 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc28 fdc55 fdc56 resistor r=10m
+FEdc28 fdc56   gnd vsource vdc=600
+
+FI29 SX2786274C:br SX2786274C:bi fdc57 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc29 fdc57 fdc58 resistor r=10m
+FEdc29 fdc58   gnd vsource vdc=600
+
+FI30 SX3086078A:ar SX3086078A:ai fdc59 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc30 fdc59 fdc60 resistor r=10m
+FEdc30 fdc60   gnd vsource vdc=600
+
+FI31 SX2936268C:br SX2936268C:bi fdc61 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc31 fdc61 fdc62 resistor r=10m
+FEdc31 fdc62   gnd vsource vdc=600
+
+FI32 SX2730108C:ar SX2730108C:ai fdc63 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc32 fdc63 fdc64 resistor r=10m
+FEdc32 fdc64   gnd vsource vdc=600
+
+FI33 SX3029498C:br SX3029498C:bi fdc65 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc33 fdc65 fdc66 resistor r=10m
+FEdc33 fdc66   gnd vsource vdc=600
+
+FI34 SX2673315A:ar SX2673315A:ai fdc67 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc34 fdc67 fdc68 resistor r=10m
+FEdc34 fdc68   gnd vsource vdc=600
+
+FI35 SX2879054A:ar SX2879054A:ai fdc69 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc35 fdc69 fdc70 resistor r=10m
+FEdc35 fdc70   gnd vsource vdc=600
+
+FI36 SX2691942B:br SX2691942B:bi fdc71 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc36 fdc71 fdc72 resistor r=10m
+FEdc36 fdc72   gnd vsource vdc=600
+
+FI37 SX0247160B:ar SX0247160B:ai fdc73 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc37 fdc73 fdc74 resistor r=10m
+FEdc37 fdc74   gnd vsource vdc=600
+
+FI38 SX2897784B:ar SX2897784B:ai fdc75 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc38 fdc75 fdc76 resistor r=10m
+FEdc38 fdc76   gnd vsource vdc=600
+
+FI39 SX3179678B:br SX3179678B:bi fdc77 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc39 fdc77 fdc78 resistor r=10m
+FEdc39 fdc78   gnd vsource vdc=600
+
+FI40 SX3048888C:ar SX3048888C:ai fdc79 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc40 fdc79 fdc80 resistor r=10m
+FEdc40 fdc80   gnd vsource vdc=600
+
+FI41 SX2952007C:ar SX2952007C:ai fdc81 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc41 fdc81 fdc82 resistor r=10m
+FEdc41 fdc82   gnd vsource vdc=600
+
+FI42 SX3142050C:br SX3142050C:bi fdc83 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc42 fdc83 fdc84 resistor r=10m
+FEdc42 fdc84   gnd vsource vdc=600
+
+FI43 SX2936276B:br SX2936276B:bi fdc85 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc43 fdc85 fdc86 resistor r=10m
+FEdc43 fdc86   gnd vsource vdc=600
+
+FI44 SX2730187A:br SX2730187A:bi fdc87 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc44 fdc87 fdc88 resistor r=10m
+FEdc44 fdc88   gnd vsource vdc=600
+
+FI45 SX2917330A:br SX2917330A:bi fdc89 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc45 fdc89 fdc90 resistor r=10m
+FEdc45 fdc90   gnd vsource vdc=600
+
+FI46 SX2955074A:br SX2955074A:bi fdc91 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc46 fdc91 fdc92 resistor r=10m
+FEdc46 fdc92   gnd vsource vdc=600
+
+FI47 SX2992624A:ar SX2992624A:ai fdc93 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc47 fdc93 fdc94 resistor r=10m
+FEdc47 fdc94   gnd vsource vdc=600
+
+FI48 SX2805031C:br SX2805031C:bi fdc95 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*15.26kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc48 fdc95 fdc96 resistor r=10m
+FEdc48 fdc96   gnd vsource vdc=600
+
+FI49 SX2879767B:ar SX2879767B:ai fdc97 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc49 fdc97 fdc98 resistor r=10m
+FEdc49 fdc98   gnd vsource vdc=600
+
+FI50 SX2748839B:br SX2748839B:bi fdc99 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc50 fdc99 fdc100 resistor r=10m
+FEdc50 fdc100   gnd vsource vdc=600
+
+FI51 SX2955081A:ar SX2955081A:ai fdc101 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc51 fdc101 fdc102 resistor r=10m
+FEdc51 fdc102   gnd vsource vdc=600
+
+FI52 SX2674047C:br SX2674047C:bi fdc103 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc52 fdc103 fdc104 resistor r=10m
+FEdc52 fdc104   gnd vsource vdc=600
+
+FI53 SX3104853C:br SX3104853C:bi fdc105 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc53 fdc105 fdc106 resistor r=10m
+FEdc53 fdc106   gnd vsource vdc=600
+
+FI54 SX2711226B:br SX2711226B:bi fdc107 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc54 fdc107 fdc108 resistor r=10m
+FEdc54 fdc108   gnd vsource vdc=600
+
+FI55 SX3086074C:br SX3086074C:bi fdc109 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc55 fdc109 fdc110 resistor r=10m
+FEdc55 fdc110   gnd vsource vdc=600
+
+FI56 SX2955077C:ar SX2955077C:ai fdc111 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc56 fdc111 fdc112 resistor r=10m
+FEdc56 fdc112   gnd vsource vdc=600
+
+FI57 SX2711225C:ar SX2711225C:ai fdc113 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc57 fdc113 fdc114 resistor r=10m
+FEdc57 fdc114   gnd vsource vdc=600
+
+FI58 SX3160861C:br SX3160861C:bi fdc115 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc58 fdc115 fdc116 resistor r=10m
+FEdc58 fdc116   gnd vsource vdc=600
+
+FI59 SX2936211C:ar SX2936211C:ai fdc117 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc59 fdc117 fdc118 resistor r=10m
+FEdc59 fdc118   gnd vsource vdc=600
+
+FI60 SX3236004C:br SX3236004C:bi fdc119 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc60 fdc119 fdc120 resistor r=10m
+FEdc60 fdc120   gnd vsource vdc=600
+
+FI61 SX3254869B:br SX3254869B:bi fdc121 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc61 fdc121 fdc122 resistor r=10m
+FEdc61 fdc122   gnd vsource vdc=600
+
+FI62 SX3254870C:ar SX3254870C:ai fdc123 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc62 fdc123 fdc124 resistor r=10m
+FEdc62 fdc124   gnd vsource vdc=600
+
+FI63 SX3216988B:ar SX3216988B:ai fdc125 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc63 fdc125 fdc126 resistor r=10m
+FEdc63 fdc126   gnd vsource vdc=600
+
+FI64 SX2767340A:br SX2767340A:bi fdc127 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*26.60kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc64 fdc127 fdc128 resistor r=10m
+FEdc64 fdc128   gnd vsource vdc=600
+
+FI65 SX3067478A:br SX3067478A:bi fdc129 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc65 fdc129 fdc130 resistor r=10m
+FEdc65 fdc130   gnd vsource vdc=600
+
+FI66 SX2973791A:ar SX2973791A:ai fdc131 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*17.74kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc66 fdc131 fdc132 resistor r=10m
+FEdc66 fdc132   gnd vsource vdc=600
+
+FI67 SX2898515C:br SX2898515C:bi fdc133 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc67 fdc133 fdc134 resistor r=10m
+FEdc67 fdc134   gnd vsource vdc=600
+
+FI68 SX3048966C:br SX3048966C:bi fdc135 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc68 fdc135 fdc136 resistor r=10m
+FEdc68 fdc136   gnd vsource vdc=600
+
+FI69 SX2786266A:br SX2786266A:bi fdc137 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc69 fdc137 fdc138 resistor r=10m
+FEdc69 fdc138   gnd vsource vdc=600
+
+FI70 SX2842384C:br SX2842384C:bi fdc139 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc70 fdc139 fdc140 resistor r=10m
+FEdc70 fdc140   gnd vsource vdc=600
+
+FI71 SX3179673C:ar SX3179673C:ai fdc141 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc71 fdc141 fdc142 resistor r=10m
+FEdc71 fdc142   gnd vsource vdc=600
+
+FI72 SX2805034A:ar SX2805034A:ai fdc143 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc72 fdc143 fdc144 resistor r=10m
+FEdc72 fdc144   gnd vsource vdc=600
+
+FI73 SX3067448C:ar SX3067448C:ai fdc145 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc73 fdc145 fdc146 resistor r=10m
+FEdc73 fdc146   gnd vsource vdc=600
+
+FI74 SX2822865C:br SX2822865C:bi fdc147 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc74 fdc147 fdc148 resistor r=10m
+FEdc74 fdc148   gnd vsource vdc=600
+
+FI75 SX2804250C:br SX2804250C:bi fdc149 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc75 fdc149 fdc150 resistor r=10m
+FEdc75 fdc150   gnd vsource vdc=600
+
+FI76 SX2935550C:ar SX2935550C:ai fdc151 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc76 fdc151 fdc152 resistor r=10m
+FEdc76 fdc152   gnd vsource vdc=600
+
+FI77 SX3066806C:br SX3066806C:bi fdc153 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc77 fdc153 fdc154 resistor r=10m
+FEdc77 fdc154   gnd vsource vdc=600
+
+FI78 SX2786273B:ar SX2786273B:ai fdc155 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc78 fdc155 fdc156 resistor r=10m
+FEdc78 fdc156   gnd vsource vdc=600
+
+FI79 SX3122849B:br SX3122849B:bi fdc157 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc79 fdc157 fdc158 resistor r=10m
+FEdc79 fdc158   gnd vsource vdc=600
+
+FI80 SX3104157C:ar SX3104157C:ai fdc159 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc80 fdc159 fdc160 resistor r=10m
+FEdc80 fdc160   gnd vsource vdc=600
+
+FI81 SX_293471C:ar SX_293471C:ai fdc161 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc81 fdc161 fdc162 resistor r=10m
+FEdc81 fdc162   gnd vsource vdc=600
+
+FI82 SX2673346C:br SX2673346C:bi fdc163 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc82 fdc163 fdc164 resistor r=10m
+FEdc82 fdc164   gnd vsource vdc=600
+
+FI83 SX2841637C:ar SX2841637C:ai fdc165 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc83 fdc165 fdc166 resistor r=10m
+FEdc83 fdc166   gnd vsource vdc=600
+
+FI84 SX3216370A:ar SX3216370A:ai fdc167 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc84 fdc167 fdc168 resistor r=10m
+FEdc84 fdc168   gnd vsource vdc=600
+
+FI85 SX2785527A:br SX2785527A:bi fdc169 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc85 fdc169 fdc170 resistor r=10m
+FEdc85 fdc170   gnd vsource vdc=600
+
+FI86 SX2973161A:br SX2973161A:bi fdc171 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc86 fdc171 fdc172 resistor r=10m
+FEdc86 fdc172   gnd vsource vdc=600
+
+FI87 SX2729429A:ar SX2729429A:ai fdc173 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc87 fdc173 fdc174 resistor r=10m
+FEdc87 fdc174   gnd vsource vdc=600
+
+FI88 SX3235258B:ar SX3235258B:ai fdc175 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc88 fdc175 fdc176 resistor r=10m
+FEdc88 fdc176   gnd vsource vdc=600
+
+FI89 SX2729414B:ar SX2729414B:ai fdc177 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc89 fdc177 fdc178 resistor r=10m
+FEdc89 fdc178   gnd vsource vdc=600
+
+FI90 SX3189189B:br SX3189189B:bi fdc179 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc90 fdc179 fdc180 resistor r=10m
+FEdc90 fdc180   gnd vsource vdc=600
+
+FI91 SX2916610B:br SX2916610B:bi fdc181 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc91 fdc181 fdc182 resistor r=10m
+FEdc91 fdc182   gnd vsource vdc=600
+
+FI92 SX3207907B:br SX3207907B:bi fdc183 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*29.18kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc92 fdc183 fdc184 resistor r=10m
+FEdc92 fdc184   gnd vsource vdc=600
+
+FI93 SX2710532C:br SX2710532C:bi fdc185 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc93 fdc185 fdc186 resistor r=10m
+FEdc93 fdc186   gnd vsource vdc=600
+
+FI94 SX2954355A:ar SX2954355A:ai fdc187 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc94 fdc187 fdc188 resistor r=10m
+FEdc94 fdc188   gnd vsource vdc=600
+
+FI95 SX2766724C:ar SX2766724C:ai fdc189 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc95 fdc189 fdc190 resistor r=10m
+FEdc95 fdc190   gnd vsource vdc=600
+
+FI96 SX2895461A:ar SX2895461A:ai fdc191 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc96 fdc191 fdc192 resistor r=10m
+FEdc96 fdc192   gnd vsource vdc=600
+
+FI97 SX3120502A:ar SX3120502A:ai fdc193 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc97 fdc193 fdc194 resistor r=10m
+FEdc97 fdc194   gnd vsource vdc=600
+
+FI98 SX2841623A:ar SX2841623A:ai fdc195 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc98 fdc195 fdc196 resistor r=10m
+FEdc98 fdc196   gnd vsource vdc=600
+
+FI99 SX3029507B:br SX3029507B:bi fdc197 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc99 fdc197 fdc198 resistor r=10m
+FEdc99 fdc198   gnd vsource vdc=600
+
+FI100 SX2766726B:ar SX2766726B:ai fdc199 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc100 fdc199 fdc200 resistor r=10m
+FEdc100 fdc200   gnd vsource vdc=600
+
+FI101 SX3010570A:br SX3010570A:bi fdc201 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc101 fdc201 fdc202 resistor r=10m
+FEdc101 fdc202   gnd vsource vdc=600
+
+FI102 SX2860489A:ar SX2860489A:ai fdc203 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc102 fdc203 fdc204 resistor r=10m
+FEdc102 fdc204   gnd vsource vdc=600
+
+FI103 SX2897778A:ar SX2897778A:ai fdc205 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc103 fdc205 fdc206 resistor r=10m
+FEdc103 fdc206   gnd vsource vdc=600
+
+FI104 SX2804252A:ar SX2804252A:ai fdc207 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc104 fdc207 fdc208 resistor r=10m
+FEdc104 fdc208   gnd vsource vdc=600
+
+FI105 SX2897779C:br SX2897779C:bi fdc209 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc105 fdc209 fdc210 resistor r=10m
+FEdc105 fdc210   gnd vsource vdc=600
+
+FI106 SX2973164A:ar SX2973164A:ai fdc211 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc106 fdc211 fdc212 resistor r=10m
+FEdc106 fdc212   gnd vsource vdc=600
+
+FI107 SX3010569A:ar SX3010569A:ai fdc213 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc107 fdc213 fdc214 resistor r=10m
+FEdc107 fdc214   gnd vsource vdc=600
+
+FI108 SX2710519A:br SX2710519A:bi fdc215 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc108 fdc215 fdc216 resistor r=10m
+FEdc108 fdc216   gnd vsource vdc=600
+
+FI109 SX2897772A:br SX2897772A:bi fdc217 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc109 fdc217 fdc218 resistor r=10m
+FEdc109 fdc218   gnd vsource vdc=600
+
+FI110 SX2860491A:br SX2860491A:bi fdc219 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc110 fdc219 fdc220 resistor r=10m
+FEdc110 fdc220   gnd vsource vdc=600
+
+FI111 SX2991923A:br SX2991923A:bi fdc221 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc111 fdc221 fdc222 resistor r=10m
+FEdc111 fdc222   gnd vsource vdc=600
+
+FI112 SX2954351C:br SX2954351C:bi fdc223 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc112 fdc223 fdc224 resistor r=10m
+FEdc112 fdc224   gnd vsource vdc=600
+
+FI113 SX2954350C:br SX2954350C:bi fdc225 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc113 fdc225 fdc226 resistor r=10m
+FEdc113 fdc226   gnd vsource vdc=600
+
+FI114 SX2691945C:br SX2691945C:bi fdc227 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc114 fdc227 fdc228 resistor r=10m
+FEdc114 fdc228   gnd vsource vdc=600
+
+FI115 SX2897776C:br SX2897776C:bi fdc229 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc115 fdc229 fdc230 resistor r=10m
+FEdc115 fdc230   gnd vsource vdc=600
+
+FI116 SX2748133C:br SX2748133C:bi fdc231 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc116 fdc231 fdc232 resistor r=10m
+FEdc116 fdc232   gnd vsource vdc=600
+
+FI117 SX3122820A:br SX3122820A:bi fdc233 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc117 fdc233 fdc234 resistor r=10m
+FEdc117 fdc234   gnd vsource vdc=600
+
+FI118 SX3160106A:ar SX3160106A:ai fdc235 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc118 fdc235 fdc236 resistor r=10m
+FEdc118 fdc236   gnd vsource vdc=600
+
+FI119 SX2673312A:br SX2673312A:bi fdc237 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc119 fdc237 fdc238 resistor r=10m
+FEdc119 fdc238   gnd vsource vdc=600
+
+FI120 SX2804256B:br SX2804256B:bi fdc239 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc120 fdc239 fdc240 resistor r=10m
+FEdc120 fdc240   gnd vsource vdc=600
+
+FI121 SX3160100B:br SX3160100B:bi fdc241 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc121 fdc241 fdc242 resistor r=10m
+FEdc121 fdc242   gnd vsource vdc=600
+
+FI122 SX2729434B:br SX2729434B:bi fdc243 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc122 fdc243 fdc244 resistor r=10m
+FEdc122 fdc244   gnd vsource vdc=600
+
+FI123 SX2804257B:br SX2804257B:bi fdc245 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc123 fdc245 fdc246 resistor r=10m
+FEdc123 fdc246   gnd vsource vdc=600
+
+FI124 SX3122815B:ar SX3122815B:ai fdc247 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc124 fdc247 fdc248 resistor r=10m
+FEdc124 fdc248   gnd vsource vdc=600
+
+FI125 SX3235248C:br SX3235248C:bi fdc249 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc125 fdc249 fdc250 resistor r=10m
+FEdc125 fdc250   gnd vsource vdc=600
+
+FI126 SX3101787A:ar SX3101787A:ai fdc251 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc126 fdc251 fdc252 resistor r=10m
+FEdc126 fdc252   gnd vsource vdc=600
+
+FI127 SX2970811A:ar SX2970811A:ai fdc253 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc127 fdc253 fdc254 resistor r=10m
+FEdc127 fdc254   gnd vsource vdc=600
+
+FI128 SX2710515C:ar SX2710515C:ai fdc255 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*15.26kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc128 fdc255 fdc256 resistor r=10m
+FEdc128 fdc256   gnd vsource vdc=600
+
+FI129 SX3235241C:ar SX3235241C:ai fdc257 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc129 fdc257 fdc258 resistor r=10m
+FEdc129 fdc258   gnd vsource vdc=600
+
+FI130 SX3235267C:ar SX3235267C:ai fdc259 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc130 fdc259 fdc260 resistor r=10m
+FEdc130 fdc260   gnd vsource vdc=600
+
+FI131 SX3254203B:ar SX3254203B:ai fdc261 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc131 fdc261 fdc262 resistor r=10m
+FEdc131 fdc262   gnd vsource vdc=600
+
+FI132 SX2822860B:br SX2822860B:bi fdc263 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc132 fdc263 fdc264 resistor r=10m
+FEdc132 fdc264   gnd vsource vdc=600
+
+FI133 SX3122810B:ar SX3122810B:ai fdc265 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc133 fdc265 fdc266 resistor r=10m
+FEdc133 fdc266   gnd vsource vdc=600
+
+FI134 SX2785512B:br SX2785512B:bi fdc267 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc134 fdc267 fdc268 resistor r=10m
+FEdc134 fdc268   gnd vsource vdc=600
+
+FI135 SX2729427B:br SX2729427B:bi fdc269 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc135 fdc269 fdc270 resistor r=10m
+FEdc135 fdc270   gnd vsource vdc=600
+
+FI136 SX2973152B:ar SX2973152B:ai fdc271 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc136 fdc271 fdc272 resistor r=10m
+FEdc136 fdc272   gnd vsource vdc=600
+
+FI137 SX3085397B:br SX3085397B:bi fdc273 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc137 fdc273 fdc274 resistor r=10m
+FEdc137 fdc274   gnd vsource vdc=600
+
+FI138 SX2860501B:ar SX2860501B:ai fdc275 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc138 fdc275 fdc276 resistor r=10m
+FEdc138 fdc276   gnd vsource vdc=600
+
+FI139 SX3048203B:ar SX3048203B:ai fdc277 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc139 fdc277 fdc278 resistor r=10m
+FEdc139 fdc278   gnd vsource vdc=600
+
+FI140 SX2897800B:ar SX2897800B:ai fdc279 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc140 fdc279 fdc280 resistor r=10m
+FEdc140 fdc280   gnd vsource vdc=600
+
+FI141 SX2897791B:br SX2897791B:bi fdc281 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc141 fdc281 fdc282 resistor r=10m
+FEdc141 fdc282   gnd vsource vdc=600
+
+FI142 SX2804269B:ar SX2804269B:ai fdc283 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc142 fdc283 fdc284 resistor r=10m
+FEdc142 fdc284   gnd vsource vdc=600
+
+FI143 SX2690941B:ar SX2690941B:ai fdc285 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc143 fdc285 fdc286 resistor r=10m
+FEdc143 fdc286   gnd vsource vdc=600
+
+FI144 SX3159037B:br SX3159037B:bi fdc287 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc144 fdc287 fdc288 resistor r=10m
+FEdc144 fdc288   gnd vsource vdc=600
+
+FI145 SX2954346B:br SX2954346B:bi fdc289 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc145 fdc289 fdc290 resistor r=10m
+FEdc145 fdc290   gnd vsource vdc=600
+
+FI146 SX2691943B:ar SX2691943B:ai fdc291 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc146 fdc291 fdc292 resistor r=10m
+FEdc146 fdc292   gnd vsource vdc=600
+
+FI147 SX2710513B:ar SX2710513B:ai fdc293 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc147 fdc293 fdc294 resistor r=10m
+FEdc147 fdc294   gnd vsource vdc=600
+
+FI148 SX3254228B:br SX3254228B:bi fdc295 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc148 fdc295 fdc296 resistor r=10m
+FEdc148 fdc296   gnd vsource vdc=600
+
+FI149 SX3179646B:ar SX3179646B:ai fdc297 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc149 fdc297 fdc298 resistor r=10m
+FEdc149 fdc298   gnd vsource vdc=600
+
+FI150 SX2879752B:br SX2879752B:bi fdc299 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc150 fdc299 fdc300 resistor r=10m
+FEdc150 fdc300   gnd vsource vdc=600
+
+FI151 SX2990826B:ar SX2990826B:ai fdc301 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc151 fdc301 fdc302 resistor r=10m
+FEdc151 fdc302   gnd vsource vdc=600
+
+FI152 SX3066807C:br SX3066807C:bi fdc303 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc152 fdc303 fdc304 resistor r=10m
+FEdc152 fdc304   gnd vsource vdc=600
+
+FI153 SX3085393C:ar SX3085393C:ai fdc305 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc153 fdc305 fdc306 resistor r=10m
+FEdc153 fdc306   gnd vsource vdc=600
+
+FI154 SX3085392C:ar SX3085392C:ai fdc307 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc154 fdc307 fdc308 resistor r=10m
+FEdc154 fdc308   gnd vsource vdc=600
+
+FI155 SX2729406C:ar SX2729406C:ai fdc309 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc155 fdc309 fdc310 resistor r=10m
+FEdc155 fdc310   gnd vsource vdc=600
+
+FI156 SX2841619C:ar SX2841619C:ai fdc311 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*15.26kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc156 fdc311 fdc312 resistor r=10m
+FEdc156 fdc312   gnd vsource vdc=600
+
+FI157 SX2897806C:ar SX2897806C:ai fdc313 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc157 fdc313 fdc314 resistor r=10m
+FEdc157 fdc314   gnd vsource vdc=600
+
+FI158 SX3048227A:br SX3048227A:bi fdc315 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc158 fdc315 fdc316 resistor r=10m
+FEdc158 fdc316   gnd vsource vdc=600
+
+FI159 SX2991939B:ar SX2991939B:ai fdc317 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc159 fdc317 fdc318 resistor r=10m
+FEdc159 fdc318   gnd vsource vdc=600
+
+FI160 SX3141396C:br SX3141396C:bi fdc319 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc160 fdc319 fdc320 resistor r=10m
+FEdc160 fdc320   gnd vsource vdc=600
+
+FI161 SX2766749B:ar SX2766749B:ai fdc321 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc161 fdc321 fdc322 resistor r=10m
+FEdc161 fdc322   gnd vsource vdc=600
+
+FI162 SX2935549B:ar SX2935549B:ai fdc323 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc162 fdc323 fdc324 resistor r=10m
+FEdc162 fdc324   gnd vsource vdc=600
+
+FI163 SX2822877B:br SX2822877B:bi fdc325 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc163 fdc325 fdc326 resistor r=10m
+FEdc163 fdc326   gnd vsource vdc=600
+
+FI164 SX2785514A:ar SX2785514A:ai fdc327 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc164 fdc327 fdc328 resistor r=10m
+FEdc164 fdc328   gnd vsource vdc=600
+
+FI165 SX3160101A:ar SX3160101A:ai fdc329 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc165 fdc329 fdc330 resistor r=10m
+FEdc165 fdc330   gnd vsource vdc=600
+
+FI166 SX2973156B:ar SX2973156B:ai fdc331 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc166 fdc331 fdc332 resistor r=10m
+FEdc166 fdc332   gnd vsource vdc=600
+
+FI167 SX3104127B:br SX3104127B:bi fdc333 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc167 fdc333 fdc334 resistor r=10m
+FEdc167 fdc334   gnd vsource vdc=600
+
+FI168 SX3066813B:br SX3066813B:bi fdc335 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc168 fdc335 fdc336 resistor r=10m
+FEdc168 fdc336   gnd vsource vdc=600
+
+FI169 SX3197635B:ar SX3197635B:ai fdc337 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc169 fdc337 fdc338 resistor r=10m
+FEdc169 fdc338   gnd vsource vdc=600
+
+FI170 SX2954349B:br SX2954349B:bi fdc339 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc170 fdc339 fdc340 resistor r=10m
+FEdc170 fdc340   gnd vsource vdc=600
+
+FI171 SX3029504B:ar SX3029504B:ai fdc341 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc171 fdc341 fdc342 resistor r=10m
+FEdc171 fdc342   gnd vsource vdc=600
+
+FI172 SX2785547B:ar SX2785547B:ai fdc343 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc172 fdc343 fdc344 resistor r=10m
+FEdc172 fdc344   gnd vsource vdc=600
+
+FI173 SX3216349B:br SX3216349B:bi fdc345 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc173 fdc345 fdc346 resistor r=10m
+FEdc173 fdc346   gnd vsource vdc=600
+
+FI174 SX3235245C:br SX3235245C:bi fdc347 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc174 fdc347 fdc348 resistor r=10m
+FEdc174 fdc348   gnd vsource vdc=600
+
+FI175 SX3254204A:br SX3254204A:bi fdc349 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc175 fdc349 fdc350 resistor r=10m
+FEdc175 fdc350   gnd vsource vdc=600
+
+FI176 SX2691947A:br SX2691947A:bi fdc351 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc176 fdc351 fdc352 resistor r=10m
+FEdc176 fdc352   gnd vsource vdc=600
+
+FI177 SX3178978A:br SX3178978A:bi fdc353 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc177 fdc353 fdc354 resistor r=10m
+FEdc177 fdc354   gnd vsource vdc=600
+
+FI178 SX2728247A:br SX2728247A:bi fdc355 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc178 fdc355 fdc356 resistor r=10m
+FEdc178 fdc356   gnd vsource vdc=600
+
+FI179 SX3197633A:ar SX3197633A:ai fdc357 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc179 fdc357 fdc358 resistor r=10m
+FEdc179 fdc358   gnd vsource vdc=600
+
+FI180 SX2973154A:ar SX2973154A:ai fdc359 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc180 fdc359 fdc360 resistor r=10m
+FEdc180 fdc360   gnd vsource vdc=600
+
+FI181 SX2991908A:br SX2991908A:bi fdc361 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc181 fdc361 fdc362 resistor r=10m
+FEdc181 fdc362   gnd vsource vdc=600
+
+FI182 SX2804255B:br SX2804255B:bi fdc363 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc182 fdc363 fdc364 resistor r=10m
+FEdc182 fdc364   gnd vsource vdc=600
+
+FI183 SX2897773A:ar SX2897773A:ai fdc365 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc183 fdc365 fdc366 resistor r=10m
+FEdc183 fdc366   gnd vsource vdc=600
+
+FI184 SX2935554A:ar SX2935554A:ai fdc367 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc184 fdc367 fdc368 resistor r=10m
+FEdc184 fdc368   gnd vsource vdc=600
+
+FI185 SX3104123C:br SX3104123C:bi fdc369 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc185 fdc369 fdc370 resistor r=10m
+FEdc185 fdc370   gnd vsource vdc=600
+
+FI186 SX2972930A:ar SX2972930A:ai fdc371 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc186 fdc371 fdc372 resistor r=10m
+FEdc186 fdc372   gnd vsource vdc=600
+
+FI187 SX3197661C:ar SX3197661C:ai fdc373 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc187 fdc373 fdc374 resistor r=10m
+FEdc187 fdc374   gnd vsource vdc=600
+
+FI188 SX2973160B:ar SX2973160B:ai fdc375 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc188 fdc375 fdc376 resistor r=10m
+FEdc188 fdc376   gnd vsource vdc=600
+
+FI189 SX2991914C:ar SX2991914C:ai fdc377 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc189 fdc377 fdc378 resistor r=10m
+FEdc189 fdc378   gnd vsource vdc=600
+
+FI190 SX3197640C:ar SX3197640C:ai fdc379 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc190 fdc379 fdc380 resistor r=10m
+FEdc190 fdc380   gnd vsource vdc=600
+
+FI191 SX3104136B:ar SX3104136B:ai fdc381 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc191 fdc381 fdc382 resistor r=10m
+FEdc191 fdc382   gnd vsource vdc=600
+
+FI192 SX2860482A:ar SX2860482A:ai fdc383 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc192 fdc383 fdc384 resistor r=10m
+FEdc192 fdc384   gnd vsource vdc=600
+
+FI193 SX2785517C:br SX2785517C:bi fdc385 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc193 fdc385 fdc386 resistor r=10m
+FEdc193 fdc386   gnd vsource vdc=600
+
+FI194 SX2897767C:br SX2897767C:bi fdc387 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc194 fdc387 fdc388 resistor r=10m
+FEdc194 fdc388   gnd vsource vdc=600
+
+FI195 SX2673303C:ar SX2673303C:ai fdc389 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc195 fdc389 fdc390 resistor r=10m
+FEdc195 fdc390   gnd vsource vdc=600
+
+FI196 SX3029505C:br SX3029505C:bi fdc391 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc196 fdc391 fdc392 resistor r=10m
+FEdc196 fdc392   gnd vsource vdc=600
+
+FI197 SX3104129A:ar SX3104129A:ai fdc393 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc197 fdc393 fdc394 resistor r=10m
+FEdc197 fdc394   gnd vsource vdc=600
+
+FI198 SX2748157A:ar SX2748157A:ai fdc395 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc198 fdc395 fdc396 resistor r=10m
+FEdc198 fdc396   gnd vsource vdc=600
+
+FI199 SX2916620A:br SX2916620A:bi fdc397 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc199 fdc397 fdc398 resistor r=10m
+FEdc199 fdc398   gnd vsource vdc=600
+
+FI200 SX2766738C:ar SX2766738C:ai fdc399 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc200 fdc399 fdc400 resistor r=10m
+FEdc200 fdc400   gnd vsource vdc=600
+
+FI201 SX2785534B:br SX2785534B:bi fdc401 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc201 fdc401 fdc402 resistor r=10m
+FEdc201 fdc402   gnd vsource vdc=600
+
+FI202 SX2897792A:ar SX2897792A:ai fdc403 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc202 fdc403 fdc404 resistor r=10m
+FEdc202 fdc404   gnd vsource vdc=600
+
+FI203 SX3254231A:br SX3254231A:bi fdc405 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc203 fdc405 fdc406 resistor r=10m
+FEdc203 fdc406   gnd vsource vdc=600
+
+FI204 SX2935567B:br SX2935567B:bi fdc407 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc204 fdc407 fdc408 resistor r=10m
+FEdc204 fdc408   gnd vsource vdc=600
+
+FI205 SX3254227B:br SX3254227B:bi fdc409 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc205 fdc409 fdc410 resistor r=10m
+FEdc205 fdc410   gnd vsource vdc=600
+
+FI206 SX2822873B:br SX2822873B:bi fdc411 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc206 fdc411 fdc412 resistor r=10m
+FEdc206 fdc412   gnd vsource vdc=600
+
+FI207 SX3066826B:ar SX3066826B:ai fdc413 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc207 fdc413 fdc414 resistor r=10m
+FEdc207 fdc414   gnd vsource vdc=600
+
+FI208 SX2916619B:br SX2916619B:bi fdc415 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc208 fdc415 fdc416 resistor r=10m
+FEdc208 fdc416   gnd vsource vdc=600
+
+FI209 SX2691966B:br SX2691966B:bi fdc417 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*19.45kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc209 fdc417 fdc418 resistor r=10m
+FEdc209 fdc418   gnd vsource vdc=600
+
+FI210 SX2804270B:br SX2804270B:bi fdc419 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc210 fdc419 fdc420 resistor r=10m
+FEdc210 fdc420   gnd vsource vdc=600
+
+FI211 SX2729424A:br SX2729424A:bi fdc421 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc211 fdc421 fdc422 resistor r=10m
+FEdc211 fdc422   gnd vsource vdc=600
+
+FI212 SX3197652A:ar SX3197652A:ai fdc423 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc212 fdc423 fdc424 resistor r=10m
+FEdc212 fdc424   gnd vsource vdc=600
+
+FI213 SX3197625C:ar SX3197625C:ai fdc425 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc213 fdc425 fdc426 resistor r=10m
+FEdc213 fdc426   gnd vsource vdc=600
+
+FI214 SX3160098A:br SX3160098A:bi fdc427 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc214 fdc427 fdc428 resistor r=10m
+FEdc214 fdc428   gnd vsource vdc=600
+
+FI215 SX3118855C:ar SX3118855C:ai fdc429 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*15.26kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc215 fdc429 fdc430 resistor r=10m
+FEdc215 fdc430   gnd vsource vdc=600
+
+FI216 SX3198356C:ar SX3198356C:ai fdc431 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc216 fdc431 fdc432 resistor r=10m
+FEdc216 fdc432   gnd vsource vdc=600
+
+FI217 SX3045895C:ar SX3045895C:ai fdc433 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc217 fdc433 fdc434 resistor r=10m
+FEdc217 fdc434   gnd vsource vdc=600
+
+FI218 SX2673322B:br SX2673322B:bi fdc435 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc218 fdc435 fdc436 resistor r=10m
+FEdc218 fdc436   gnd vsource vdc=600
+
+FI219 SX2914323B:br SX2914323B:bi fdc437 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc219 fdc437 fdc438 resistor r=10m
+FEdc219 fdc438   gnd vsource vdc=600
+
+FI220 SX2991933C:ar SX2991933C:ai fdc439 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*20.34kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc220 fdc439 fdc440 resistor r=10m
+FEdc220 fdc440   gnd vsource vdc=600
+
+FI221 SX2710542B:br SX2710542B:bi fdc441 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc221 fdc441 fdc442 resistor r=10m
+FEdc221 fdc442   gnd vsource vdc=600
+
+FI222 SX3104114B:br SX3104114B:bi fdc443 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc222 fdc443 fdc444 resistor r=10m
+FEdc222 fdc444   gnd vsource vdc=600
+
+FI223 SX2860478B:ar SX2860478B:ai fdc445 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc223 fdc445 fdc446 resistor r=10m
+FEdc223 fdc446   gnd vsource vdc=600
+
+FI224 SX2766715B:br SX2766715B:bi fdc447 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc224 fdc447 fdc448 resistor r=10m
+FEdc224 fdc448   gnd vsource vdc=600
+
+FI225 SX2729401B:ar SX2729401B:ai fdc449 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc225 fdc449 fdc450 resistor r=10m
+FEdc225 fdc450   gnd vsource vdc=600
+
+FI226 SX2691938B:br SX2691938B:bi fdc451 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc226 fdc451 fdc452 resistor r=10m
+FEdc226 fdc452   gnd vsource vdc=600
+
+FI227 SX3160108B:ar SX3160108B:ai fdc453 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc227 fdc453 fdc454 resistor r=10m
+FEdc227 fdc454   gnd vsource vdc=600
+
+FI228 SX3029510B:ar SX3029510B:ai fdc455 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc228 fdc455 fdc456 resistor r=10m
+FEdc228 fdc456   gnd vsource vdc=600
+
+FI229 SX3197634B:br SX3197634B:bi fdc457 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc229 fdc457 fdc458 resistor r=10m
+FEdc229 fdc458   gnd vsource vdc=600
+
+FI230 SX3085398B:br SX3085398B:bi fdc459 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc230 fdc459 fdc460 resistor r=10m
+FEdc230 fdc460   gnd vsource vdc=600
+
+FI231 SX3160102B:br SX3160102B:bi fdc461 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc231 fdc461 fdc462 resistor r=10m
+FEdc231 fdc462   gnd vsource vdc=600
+
+FI232 SX2952013A:br SX2952013A:bi fdc463 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc232 fdc463 fdc464 resistor r=10m
+FEdc232 fdc464   gnd vsource vdc=600
+
+FI233 SX2691973A:br SX2691973A:bi fdc465 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc233 fdc465 fdc466 resistor r=10m
+FEdc233 fdc466   gnd vsource vdc=600
+
+FI234 SX2804262A:br SX2804262A:bi fdc467 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc234 fdc467 fdc468 resistor r=10m
+FEdc234 fdc468   gnd vsource vdc=600
+
+FI235 SX3197646B:ar SX3197646B:ai fdc469 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc235 fdc469 fdc470 resistor r=10m
+FEdc235 fdc470   gnd vsource vdc=600
+
+FI236 SX2691936A:br SX2691936A:bi fdc471 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc236 fdc471 fdc472 resistor r=10m
+FEdc236 fdc472   gnd vsource vdc=600
+
+FI237 SX2841615A:ar SX2841615A:ai fdc473 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc237 fdc473 fdc474 resistor r=10m
+FEdc237 fdc474   gnd vsource vdc=600
+
+FI238 SX2916599A:br SX2916599A:bi fdc475 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc238 fdc475 fdc476 resistor r=10m
+FEdc238 fdc476   gnd vsource vdc=600
+
+FI239 SX2935556B:ar SX2935556B:ai fdc477 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc239 fdc477 fdc478 resistor r=10m
+FEdc239 fdc478   gnd vsource vdc=600
+
+FI240 SX3176661C:br SX3176661C:bi fdc479 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc240 fdc479 fdc480 resistor r=10m
+FEdc240 fdc480   gnd vsource vdc=600
+
+FI241 SX2767343C:ar SX2767343C:ai fdc481 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*15.26kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc241 fdc481 fdc482 resistor r=10m
+FEdc241 fdc482   gnd vsource vdc=600
+
+FI242 SX2842330C:br SX2842330C:bi fdc483 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc242 fdc483 fdc484 resistor r=10m
+FEdc242 fdc484   gnd vsource vdc=600
+
+FI243 SX2692600C:ar SX2692600C:ai fdc485 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc243 fdc485 fdc486 resistor r=10m
+FEdc243 fdc486   gnd vsource vdc=600
+
+FI244 SX2767342A:br SX2767342A:bi fdc487 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc244 fdc487 fdc488 resistor r=10m
+FEdc244 fdc488   gnd vsource vdc=600
+
+FI245 SX3195321A:br SX3195321A:bi fdc489 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc245 fdc489 fdc490 resistor r=10m
+FEdc245 fdc490   gnd vsource vdc=600
+
+FI246 SX2936214A:ar SX2936214A:ai fdc491 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc246 fdc491 fdc492 resistor r=10m
+FEdc246 fdc492   gnd vsource vdc=600
+
+FI247 SX2730106C:ar SX2730106C:ai fdc493 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc247 fdc493 fdc494 resistor r=10m
+FEdc247 fdc494   gnd vsource vdc=600
+
+FI248 SX2804247B:br SX2804247B:bi fdc495 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc248 fdc495 fdc496 resistor r=10m
+FEdc248 fdc496   gnd vsource vdc=600
+
+FI249 SX3048200B:br SX3048200B:bi fdc497 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc249 fdc497 fdc498 resistor r=10m
+FEdc249 fdc498   gnd vsource vdc=600
+
+FI250 SX3141390B:br SX3141390B:bi fdc499 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc250 fdc499 fdc500 resistor r=10m
+FEdc250 fdc500   gnd vsource vdc=600
+
+FI251 SX3085388B:ar SX3085388B:ai fdc501 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc251 fdc501 fdc502 resistor r=10m
+FEdc251 fdc502   gnd vsource vdc=600
+
+FI252 SX2991918B:br SX2991918B:bi fdc503 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc252 fdc503 fdc504 resistor r=10m
+FEdc252 fdc504   gnd vsource vdc=600
+
+FI253 SX2804260B:br SX2804260B:bi fdc505 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc253 fdc505 fdc506 resistor r=10m
+FEdc253 fdc506   gnd vsource vdc=600
+
+FI254 SX2879079B:ar SX2879079B:ai fdc507 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc254 fdc507 fdc508 resistor r=10m
+FEdc254 fdc508   gnd vsource vdc=600
+
+FI255 SX3085389B:ar SX3085389B:ai fdc509 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc255 fdc509 fdc510 resistor r=10m
+FEdc255 fdc510   gnd vsource vdc=600
+
+FI256 SX3216350A:br SX3216350A:bi fdc511 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc256 fdc511 fdc512 resistor r=10m
+FEdc256 fdc512   gnd vsource vdc=600
+
+FI257 SX2691952A:ar SX2691952A:ai fdc513 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc257 fdc513 fdc514 resistor r=10m
+FEdc257 fdc514   gnd vsource vdc=600
+
+FI258 SX2766723A:br SX2766723A:bi fdc515 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc258 fdc515 fdc516 resistor r=10m
+FEdc258 fdc516   gnd vsource vdc=600
+
+FI259 SX2858163A:ar SX2858163A:ai fdc517 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc259 fdc517 fdc518 resistor r=10m
+FEdc259 fdc518   gnd vsource vdc=600
+
+FI260 SX3156034A:ar SX3156034A:ai fdc519 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.55kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc260 fdc519 fdc520 resistor r=10m
+FEdc260 fdc520   gnd vsource vdc=600
+
+FI261 SX3141412A:br SX3141412A:bi fdc521 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc261 fdc521 fdc522 resistor r=10m
+FEdc261 fdc522   gnd vsource vdc=600
+
+FI262 SX2841634B:ar SX2841634B:ai fdc523 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc262 fdc523 fdc524 resistor r=10m
+FEdc262 fdc524   gnd vsource vdc=600
+
+FI263 SX2935566C:ar SX2935566C:ai fdc525 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc263 fdc525 fdc526 resistor r=10m
+FEdc263 fdc526   gnd vsource vdc=600
+
+FI264 SX3160868B:br SX3160868B:bi fdc527 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc264 fdc527 fdc528 resistor r=10m
+FEdc264 fdc528   gnd vsource vdc=600
+
+FI265 SX3122825A:br SX3122825A:bi fdc529 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc265 fdc529 fdc530 resistor r=10m
+FEdc265 fdc530   gnd vsource vdc=600
+
+FI266 SX2935568B:ar SX2935568B:ai fdc531 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc266 fdc531 fdc532 resistor r=10m
+FEdc266 fdc532   gnd vsource vdc=600
+
+FI267 SX2814529C:ar SX2814529C:ai fdc533 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*20.34kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc267 fdc533 fdc534 resistor r=10m
+FEdc267 fdc534   gnd vsource vdc=600
+
+FI268 SX2841628A:ar SX2841628A:ai fdc535 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc268 fdc535 fdc536 resistor r=10m
+FEdc268 fdc536   gnd vsource vdc=600
+
+FI269 SX2860477A:ar SX2860477A:ai fdc537 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc269 fdc537 fdc538 resistor r=10m
+FEdc269 fdc538   gnd vsource vdc=600
+
+FI270 SX3160864B:ar SX3160864B:ai fdc539 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc270 fdc539 fdc540 resistor r=10m
+FEdc270 fdc540   gnd vsource vdc=600
+
+FI271 SX2804259A:br SX2804259A:bi fdc541 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc271 fdc541 fdc542 resistor r=10m
+FEdc271 fdc542   gnd vsource vdc=600
+
+FI272 SX2897766C:ar SX2897766C:ai fdc543 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc272 fdc543 fdc544 resistor r=10m
+FEdc272 fdc544   gnd vsource vdc=600
+
+FI273 SX2991921C:ar SX2991921C:ai fdc545 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc273 fdc545 fdc546 resistor r=10m
+FEdc273 fdc546   gnd vsource vdc=600
+
+FI274 SX3011293C:br SX3011293C:bi fdc547 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*20.34kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc274 fdc547 fdc548 resistor r=10m
+FEdc274 fdc548   gnd vsource vdc=600
+
+FI275 SX2991929B:ar SX2991929B:ai fdc549 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc275 fdc549 fdc550 resistor r=10m
+FEdc275 fdc550   gnd vsource vdc=600
+
+FI276 SX2991940C:br SX2991940C:bi fdc551 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc276 fdc551 fdc552 resistor r=10m
+FEdc276 fdc552   gnd vsource vdc=600
+
+FI277 SX3141395C:ar SX3141395C:ai fdc553 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc277 fdc553 fdc554 resistor r=10m
+FEdc277 fdc554   gnd vsource vdc=600
+
+FI278 SX2839305A:ar SX2839305A:ai fdc555 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc278 fdc555 fdc556 resistor r=10m
+FEdc278 fdc556   gnd vsource vdc=600
+
+FI279 SX2841616A:ar SX2841616A:ai fdc557 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc279 fdc557 fdc558 resistor r=10m
+FEdc279 fdc558   gnd vsource vdc=600
+
+FI280 SX3178973A:ar SX3178973A:ai fdc559 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc280 fdc559 fdc560 resistor r=10m
+FEdc280 fdc560   gnd vsource vdc=600
+
+FI281 SX3085391B:ar SX3085391B:ai fdc561 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*19.45kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc281 fdc561 fdc562 resistor r=10m
+FEdc281 fdc562   gnd vsource vdc=600
+
+FI282 SX3142079B:ar SX3142079B:ai fdc563 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc282 fdc563 fdc564 resistor r=10m
+FEdc282 fdc564   gnd vsource vdc=600
+
+FI283 SX2842390C:ar SX2842390C:ai fdc565 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc283 fdc565 fdc566 resistor r=10m
+FEdc283 fdc566   gnd vsource vdc=600
+
+FI284 SX3160117B:br SX3160117B:bi fdc567 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc284 fdc567 fdc568 resistor r=10m
+FEdc284 fdc568   gnd vsource vdc=600
+
+FI285 SX2841641B:br SX2841641B:bi fdc569 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc285 fdc569 fdc570 resistor r=10m
+FEdc285 fdc570   gnd vsource vdc=600
+
+FI286 SX3235242C:ar SX3235242C:ai fdc571 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc286 fdc571 fdc572 resistor r=10m
+FEdc286 fdc572   gnd vsource vdc=600
+
+FI287 SX2879067A:br SX2879067A:bi fdc573 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc287 fdc573 fdc574 resistor r=10m
+FEdc287 fdc574   gnd vsource vdc=600
+
+FI288 SX3197654A:ar SX3197654A:ai fdc575 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc288 fdc575 fdc576 resistor r=10m
+FEdc288 fdc576   gnd vsource vdc=600
+
+FI289 SX3215385A:ar SX3215385A:ai fdc577 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc289 fdc577 fdc578 resistor r=10m
+FEdc289 fdc578   gnd vsource vdc=600
+
+FI290 SX2841622A:br SX2841622A:bi fdc579 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc290 fdc579 fdc580 resistor r=10m
+FEdc290 fdc580   gnd vsource vdc=600
+
+FI291 SX3160862C:br SX3160862C:bi fdc581 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc291 fdc581 fdc582 resistor r=10m
+FEdc291 fdc582   gnd vsource vdc=600
+
+FI292 SX2822867B:br SX2822867B:bi fdc583 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc292 fdc583 fdc584 resistor r=10m
+FEdc292 fdc584   gnd vsource vdc=600
+
+FI293 SX2823611A:ar SX2823611A:ai fdc585 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc293 fdc585 fdc586 resistor r=10m
+FEdc293 fdc586   gnd vsource vdc=600
+
+FI294 SX2935551C:br SX2935551C:bi fdc587 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc294 fdc587 fdc588 resistor r=10m
+FEdc294 fdc588   gnd vsource vdc=600
+
+FI295 SX2989565A:ar SX2989565A:ai fdc589 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc295 fdc589 fdc590 resistor r=10m
+FEdc295 fdc590   gnd vsource vdc=600
+
+FI296 SX2674051A:ar SX2674051A:ai fdc591 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc296 fdc591 fdc592 resistor r=10m
+FEdc296 fdc592   gnd vsource vdc=600
+
+FI297 SX3085395A:ar SX3085395A:ai fdc593 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc297 fdc593 fdc594 resistor r=10m
+FEdc297 fdc594   gnd vsource vdc=600
+
+FI298 SX2729405B:ar SX2729405B:ai fdc595 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc298 fdc595 fdc596 resistor r=10m
+FEdc298 fdc596   gnd vsource vdc=600
+
+FI299 SX2674052C:ar SX2674052C:ai fdc597 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc299 fdc597 fdc598 resistor r=10m
+FEdc299 fdc598   gnd vsource vdc=600
+
+FI300 SX2851933C:ar SX2851933C:ai fdc599 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*15.26kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc300 fdc599 fdc600 resistor r=10m
+FEdc300 fdc600   gnd vsource vdc=600
+
+FI301 SX3048211A:br SX3048211A:bi fdc601 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc301 fdc601 fdc602 resistor r=10m
+FEdc301 fdc602   gnd vsource vdc=600
+
+FI302 SX2785525C:ar SX2785525C:ai fdc603 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc302 fdc603 fdc604 resistor r=10m
+FEdc302 fdc604   gnd vsource vdc=600
+
+FI303 SX3253995C:br SX3253995C:bi fdc605 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc303 fdc605 fdc606 resistor r=10m
+FEdc303 fdc606   gnd vsource vdc=600
+
+FI304 SX2935557A:br SX2935557A:bi fdc607 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc304 fdc607 fdc608 resistor r=10m
+FEdc304 fdc608   gnd vsource vdc=600
+
+FI305 SX3122848C:ar SX3122848C:ai fdc609 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc305 fdc609 fdc610 resistor r=10m
+FEdc305 fdc610   gnd vsource vdc=600
+
+FI306 SX2860493A:br SX2860493A:bi fdc611 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc306 fdc611 fdc612 resistor r=10m
+FEdc306 fdc612   gnd vsource vdc=600
+
+FI307 SX2729428A:br SX2729428A:bi fdc613 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc307 fdc613 fdc614 resistor r=10m
+FEdc307 fdc614   gnd vsource vdc=600
+
+FI308 SX2973180B:br SX2973180B:bi fdc615 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc308 fdc615 fdc616 resistor r=10m
+FEdc308 fdc616   gnd vsource vdc=600
+
+FI309 SX2841635A:ar SX2841635A:ai fdc617 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc309 fdc617 fdc618 resistor r=10m
+FEdc309 fdc618   gnd vsource vdc=600
+
+FI310 SX2766725C:ar SX2766725C:ai fdc619 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc310 fdc619 fdc620 resistor r=10m
+FEdc310 fdc620   gnd vsource vdc=600
+
+FI311 SX2879092C:ar SX2879092C:ai fdc621 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc311 fdc621 fdc622 resistor r=10m
+FEdc311 fdc622   gnd vsource vdc=600
+
+FI312 SX2991943C:ar SX2991943C:ai fdc623 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc312 fdc623 fdc624 resistor r=10m
+FEdc312 fdc624   gnd vsource vdc=600
+
+FI313 SX2785546A:br SX2785546A:bi fdc625 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc313 fdc625 fdc626 resistor r=10m
+FEdc313 fdc626   gnd vsource vdc=600
+
+FI314 SX3216358A:ar SX3216358A:ai fdc627 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc314 fdc627 fdc628 resistor r=10m
+FEdc314 fdc628   gnd vsource vdc=600
+
+FI315 SX3048231B:br SX3048231B:bi fdc629 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*19.45kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc315 fdc629 fdc630 resistor r=10m
+FEdc315 fdc630   gnd vsource vdc=600
+
+FI316 SX3010580B:ar SX3010580B:ai fdc631 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc316 fdc631 fdc632 resistor r=10m
+FEdc316 fdc632   gnd vsource vdc=600
+
+FI317 SX3232301C:br SX3232301C:bi fdc633 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*30.52kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc317 fdc633 fdc634 resistor r=10m
+FEdc317 fdc634   gnd vsource vdc=600
+
+FI318 SX2763812C:ar SX2763812C:ai fdc635 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*30.52kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc318 fdc635 fdc636 resistor r=10m
+FEdc318 fdc636   gnd vsource vdc=600
+
+FI319 SX2955047A:br SX2955047A:bi fdc637 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc319 fdc637 fdc638 resistor r=10m
+FEdc319 fdc638   gnd vsource vdc=600
+
+FI320 SX2766748A:br SX2766748A:bi fdc639 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc320 fdc639 fdc640 resistor r=10m
+FEdc320 fdc640   gnd vsource vdc=600
+
+FI321 SX3086098A:ar SX3086098A:ai fdc641 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*17.74kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc321 fdc641 fdc642 resistor r=10m
+FEdc321 fdc642   gnd vsource vdc=600
+
+FI322 SX2861197C:ar SX2861197C:ai fdc643 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc322 fdc643 fdc644 resistor r=10m
+FEdc322 fdc644   gnd vsource vdc=600
+
+FI323 SX2710544A:ar SX2710544A:ai fdc645 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc323 fdc645 fdc646 resistor r=10m
+FEdc323 fdc646   gnd vsource vdc=600
+
+FI324 SX3029520B:br SX3029520B:bi fdc647 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc324 fdc647 fdc648 resistor r=10m
+FEdc324 fdc648   gnd vsource vdc=600
+
+FI325 SX2685809A:br SX2685809A:bi fdc649 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc325 fdc649 fdc650 resistor r=10m
+FEdc325 fdc650   gnd vsource vdc=600
+
+FI326 SX2929261A:br SX2929261A:bi fdc651 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc326 fdc651 fdc652 resistor r=10m
+FEdc326 fdc652   gnd vsource vdc=600
+
+FI327 SX3225319B:br SX3225319B:bi fdc653 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc327 fdc653 fdc654 resistor r=10m
+FEdc327 fdc654   gnd vsource vdc=600
+
+FI328 SX2948732B:br SX2948732B:bi fdc655 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc328 fdc655 fdc656 resistor r=10m
+FEdc328 fdc656   gnd vsource vdc=600
+
+FI329 SX2858175A:br SX2858175A:bi fdc657 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc329 fdc657 fdc658 resistor r=10m
+FEdc329 fdc658   gnd vsource vdc=600
+
+FI330 SX3081380A:ar SX3081380A:ai fdc659 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc330 fdc659 fdc660 resistor r=10m
+FEdc330 fdc660   gnd vsource vdc=600
+
+FI331 SX3120503A:ar SX3120503A:ai fdc661 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc331 fdc661 fdc662 resistor r=10m
+FEdc331 fdc662   gnd vsource vdc=600
+
+FI332 SX3195327A:ar SX3195327A:ai fdc663 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc332 fdc663 fdc664 resistor r=10m
+FEdc332 fdc664   gnd vsource vdc=600
+
+FI333 SX2688693C:ar SX2688693C:ai fdc665 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc333 fdc665 fdc666 resistor r=10m
+FEdc333 fdc666   gnd vsource vdc=600
+
+FI334 SX2764411C:br SX2764411C:bi fdc667 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc334 fdc667 fdc668 resistor r=10m
+FEdc334 fdc668   gnd vsource vdc=600
+
+FI335 SX3027133A:ar SX3027133A:ai fdc669 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc335 fdc669 fdc670 resistor r=10m
+FEdc335 fdc670   gnd vsource vdc=600
+
+FI336 SX3157167A:br SX3157167A:bi fdc671 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc336 fdc671 fdc672 resistor r=10m
+FEdc336 fdc672   gnd vsource vdc=600
+
+FI337 SX2989432B:br SX2989432B:bi fdc673 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc337 fdc673 fdc674 resistor r=10m
+FEdc337 fdc674   gnd vsource vdc=600
+
+FI338 SX2745799C:br SX2745799C:bi fdc675 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc338 fdc675 fdc676 resistor r=10m
+FEdc338 fdc676   gnd vsource vdc=600
+
+FI339 SX2801896B:ar SX2801896B:ai fdc677 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc339 fdc677 fdc678 resistor r=10m
+FEdc339 fdc678   gnd vsource vdc=600
+
+FI340 SX3008232B:br SX3008232B:bi fdc679 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*3.89kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc340 fdc679 fdc680 resistor r=10m
+FEdc340 fdc680   gnd vsource vdc=600
+
+FI341 SX2689678B:br SX2689678B:bi fdc681 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*1.95kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc341 fdc681 fdc682 resistor r=10m
+FEdc341 fdc682   gnd vsource vdc=600
+
+FI342 SX2933120C:br SX2933120C:bi fdc683 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*15.26kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc342 fdc683 fdc684 resistor r=10m
+FEdc342 fdc684   gnd vsource vdc=600
+
+FI343 SX3157708C:ar SX3157708C:ai fdc685 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc343 fdc685 fdc686 resistor r=10m
+FEdc343 fdc686   gnd vsource vdc=600
+
+FI344 SX2895449C:ar SX2895449C:ai fdc687 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc344 fdc687 fdc688 resistor r=10m
+FEdc344 fdc688   gnd vsource vdc=600
+
+FI345 SX2876796A:ar SX2876796A:ai fdc689 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc345 fdc689 fdc690 resistor r=10m
+FEdc345 fdc690   gnd vsource vdc=600
+
+FI346 SX2726974B:br SX2726974B:bi fdc691 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc346 fdc691 fdc692 resistor r=10m
+FEdc346 fdc692   gnd vsource vdc=600
+
+FI347 SX3143999A:br SX3143999A:bi fdc693 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc347 fdc693 fdc694 resistor r=10m
+FEdc347 fdc694   gnd vsource vdc=600
+
+FI348 SX3082981C:br SX3082981C:bi fdc695 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc348 fdc695 fdc696 resistor r=10m
+FEdc348 fdc696   gnd vsource vdc=600
+
+FI349 SX2783231B:ar SX2783231B:ai fdc697 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc349 fdc697 fdc698 resistor r=10m
+FEdc349 fdc698   gnd vsource vdc=600
+
+FI350 SX2801902B:ar SX2801902B:ai fdc699 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc350 fdc699 fdc700 resistor r=10m
+FEdc350 fdc700   gnd vsource vdc=600
+
+FI351 SX3195318B:br SX3195318B:bi fdc701 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc351 fdc701 fdc702 resistor r=10m
+FEdc351 fdc702   gnd vsource vdc=600
+
+FI352 SX3232902A:ar SX3232902A:ai fdc703 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc352 fdc703 fdc704 resistor r=10m
+FEdc352 fdc704   gnd vsource vdc=600
+
+FI353 SX3027124C:br SX3027124C:bi fdc705 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc353 fdc705 fdc706 resistor r=10m
+FEdc353 fdc706   gnd vsource vdc=600
+
+FI354 SX2820556A:ar SX2820556A:ai fdc707 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc354 fdc707 fdc708 resistor r=10m
+FEdc354 fdc708   gnd vsource vdc=600
+
+FI355 SX2708744B:br SX2708744B:bi fdc709 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*29.18kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc355 fdc709 fdc710 resistor r=10m
+FEdc355 fdc710   gnd vsource vdc=600
+
+FI356 SX3027670B:br SX3027670B:bi fdc711 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*29.18kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc356 fdc711 fdc712 resistor r=10m
+FEdc356 fdc712   gnd vsource vdc=600
+
+FI357 SX3252336B:br SX3252336B:bi fdc713 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*14.59kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc357 fdc713 fdc714 resistor r=10m
+FEdc357 fdc714   gnd vsource vdc=600
+
+FI358 SX3027671A:br SX3027671A:bi fdc715 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc358 fdc715 fdc716 resistor r=10m
+FEdc358 fdc716   gnd vsource vdc=600
+
+FI359 SX3214549A:br SX3214549A:bi fdc717 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*17.74kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc359 fdc717 fdc718 resistor r=10m
+FEdc359 fdc718   gnd vsource vdc=600
+
+FI360 SX3251854A:br SX3251854A:bi fdc719 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc360 fdc719 fdc720 resistor r=10m
+FEdc360 fdc720   gnd vsource vdc=600
+
+FI361 SX3226771A:br SX3226771A:bi fdc721 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc361 fdc721 fdc722 resistor r=10m
+FEdc361 fdc722   gnd vsource vdc=600
+
+FI362 SX2896685B:br SX2896685B:bi fdc723 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc362 fdc723 fdc724 resistor r=10m
+FEdc362 fdc724   gnd vsource vdc=600
+
+FI363 SX2806553C:br SX2806553C:bi fdc725 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc363 fdc725 fdc726 resistor r=10m
+FEdc363 fdc726   gnd vsource vdc=600
+
+FI364 SX2727795C:ar SX2727795C:ai fdc727 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc364 fdc727 fdc728 resistor r=10m
+FEdc364 fdc728   gnd vsource vdc=600
+
+FI365 SX3102793B:br SX3102793B:bi fdc729 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc365 fdc729 fdc730 resistor r=10m
+FEdc365 fdc730   gnd vsource vdc=600
+
+FI366 SX2803199C:ar SX2803199C:ai fdc731 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*20.34kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc366 fdc731 fdc732 resistor r=10m
+FEdc366 fdc732   gnd vsource vdc=600
+
+FI367 SX3215203C:br SX3215203C:bi fdc733 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*20.34kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc367 fdc733 fdc734 resistor r=10m
+FEdc367 fdc734   gnd vsource vdc=600
+
+FI368 SX3047058A:br SX3047058A:bi fdc735 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc368 fdc735 fdc736 resistor r=10m
+FEdc368 fdc736   gnd vsource vdc=600
+
+FI369 SX2821770A:ar SX2821770A:ai fdc737 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc369 fdc737 fdc738 resistor r=10m
+FEdc369 fdc738   gnd vsource vdc=600
+
+FI370 SX2803194C:ar SX2803194C:ai fdc739 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*15.26kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc370 fdc739 fdc740 resistor r=10m
+FEdc370 fdc740   gnd vsource vdc=600
+
+FI371 SX2915542A:ar SX2915542A:ai fdc741 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*17.74kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc371 fdc741 fdc742 resistor r=10m
+FEdc371 fdc742   gnd vsource vdc=600
+
+FI372 SX3234149A:ar SX3234149A:ai fdc743 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*88.68kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc372 fdc743 fdc744 resistor r=10m
+FEdc372 fdc744   gnd vsource vdc=600
+
+FI373 SX2859391B:ar SX2859391B:ai fdc745 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc373 fdc745 fdc746 resistor r=10m
+FEdc373 fdc746   gnd vsource vdc=600
+
+FI374 SX3047289A:ar SX3047289A:ai fdc747 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*17.74kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc374 fdc747 fdc748 resistor r=10m
+FEdc374 fdc748   gnd vsource vdc=600
+
+FI375 SX3215549B:ar SX3215549B:ai fdc749 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*9.73kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc375 fdc749 fdc750 resistor r=10m
+FEdc375 fdc750   gnd vsource vdc=600
+
+FI376 SX3159645A:ar SX3159645A:ai fdc751 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc376 fdc751 fdc752 resistor r=10m
+FEdc376 fdc752   gnd vsource vdc=600
+
+FI377 SX3029183B:ar SX3029183B:ai fdc753 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.84kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc377 fdc753 fdc754 resistor r=10m
+FEdc377 fdc754   gnd vsource vdc=600
+
+FI378 SX2991640C:ar SX2991640C:ai fdc755 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc378 fdc755 fdc756 resistor r=10m
+FEdc378 fdc756   gnd vsource vdc=600
+
+FI379 SX2729207C:ar SX2729207C:ai fdc757 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*20.34kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc379 fdc757 fdc758 resistor r=10m
+FEdc379 fdc758   gnd vsource vdc=600
+
+FI380 SX3263051C:ar SX3263051C:ai fdc759 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc380 fdc759 fdc760 resistor r=10m
+FEdc380 fdc760   gnd vsource vdc=600
+
+FI381 SX3342743C:br SX3342743C:bi fdc761 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*4.07kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc381 fdc761 fdc762 resistor r=10m
+FEdc381 fdc762   gnd vsource vdc=600
+
+FI382 SX3626914C:br SX3626914C:bi fdc763 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*6.10kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc382 fdc763 fdc764 resistor r=10m
+FEdc382 fdc764   gnd vsource vdc=600
+
+FI383 SX3645810C:br SX3645810C:bi fdc765 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*30.52kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc383 fdc765 fdc766 resistor r=10m
+FEdc383 fdc766   gnd vsource vdc=600
+
+FI384 SX3649297A:ar SX3649297A:ai fdc767 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc384 fdc767 fdc768 resistor r=10m
+FEdc384 fdc768   gnd vsource vdc=600
+
+FI385 SX3649300A:ar SX3649300A:ai fdc769 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc385 fdc769 fdc770 resistor r=10m
+FEdc385 fdc770   gnd vsource vdc=600
+
+FI386 SX3649304A:ar SX3649304A:ai fdc771 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*13.30kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc386 fdc771 fdc772 resistor r=10m
+FEdc386 fdc772   gnd vsource vdc=600
+
+FI387 SX3729297A:br SX3729297A:bi fdc773 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc387 fdc773 fdc774 resistor r=10m
+FEdc387 fdc774   gnd vsource vdc=600
+
+FI388 SX3727708A:br SX3727708A:bi fdc775 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc388 fdc775 fdc776 resistor r=10m
+FEdc388 fdc776   gnd vsource vdc=600
+
+FI389 SX3727711A:br SX3727711A:bi fdc777 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*5.32kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc389 fdc777 fdc778 resistor r=10m
+FEdc389 fdc778   gnd vsource vdc=600
+
+FI390 SX3728038A:br SX3728038A:bi fdc779 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc390 fdc779 fdc780 resistor r=10m
+FEdc390 fdc780   gnd vsource vdc=600
+
+FI391 SX3728041A:br SX3728041A:bi fdc781 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*8.87kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc391 fdc781 fdc782 resistor r=10m
+FEdc391 fdc782   gnd vsource vdc=600
+
+FI392 SX3778577C:br SX3778577C:bi fdc783 gnd coi GFL VG=VNOM_LV \
+    P_REF=2*SCALE_SL*10.17kw QG=0 CF=0.0002 LF=0.00008 RF=0.00003 PG=0.2 KD=GFL_KD
+FRdc392 fdc783 fdc784 resistor r=10m
+FEdc392 fdc784   gnd vsource vdc=600
+

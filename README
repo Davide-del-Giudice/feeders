@@ -1,0 +1,21 @@
+1) Extract the simulator binary libraries.
+
+$> tar xvfj distlibs.tar.bz2
+
+2) Link the simulator executable.
+
+$> source do_link
+$> chmod 700 ./pan
+
+In the directory the 'pan' executable is created.
+
+3) Run the simulation
+
+./pan wNAPS_Feeder.pan -ad FEEDER -ad FEEDER_GFL
+
+The '-ad FEEDER' connects all the 8500 feeders
+The '-ad FEEDER_GFL' turns on the GFL in the 8500 feeders.
+
+The 'wNAPS_Feeder.raw' directory store the simulation results.
+The file format is fully compatible with 'spice3' viewers such as for example
+'ngsoice'.
