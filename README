@@ -1,3 +1,8 @@
+This repository includes all the files necessary to perform the simulations included in the paper "Dynamic Simulation of Hybrid Transmission Systems and Distribution Feeders: an Integrated Approach". 
+The simulator used to perform the simulations is PAN. For any inquiry and if help is required with the software to replicate the results, please feel free to contact me at davide.delgiudice@polimi.it
+
+
+Instructions:
 1) Extract the simulator binary libraries.
 
 $> tar xvfj distlibs.tar.bz2
@@ -16,6 +21,6 @@ In the directory the 'pan' executable is created.
 The '-ad FEEDER' connects all the 8500 feeders
 The '-ad FEEDER_GFL' turns on the GFL in the 8500 feeders.
 
-The 'wNAPS_Feeder.raw' directory store the simulation results.
-The file format is fully compatible with 'spice3' viewers such as for example
+The 'wNAPS_Feeder.raw' directory stores the simulation results.
+The file format is fully compatible with 'spice3' viewers such as
 'ngsoice'.
