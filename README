@@ -24,3 +24,5 @@ The '-ad FEEDER_GFL' turns on the GFL in the 8500 feeders.
 The 'wNAPS_Feeder.raw' directory stores the simulation results.
 The file format is fully compatible with 'spice3' viewers such as
 'ngsoice'.
+
+4) The panbook.pdf is a manual of PAN simulator.
